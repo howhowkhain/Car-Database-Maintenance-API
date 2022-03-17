@@ -9,3 +9,13 @@ Bellow example is simulating communication with an HTTP server where a database 
 as a json file (a json object containing the details for all database existing cars).
 
 Use the json-server to simulate the functionality of the App.
+
+Run:
+
+- to start json-server:
+
+json-server --watch "NODE JS SERVER-CARS DATABASE/database.json" absolut file path
+
+- to start python file "Cars Database Maintenace.py"
+
+python "Cars Database Maintenace.py" absolute file path
