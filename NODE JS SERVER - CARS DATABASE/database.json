@@ -1,0 +1,60 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Ford",
+      "model": "Excalibur",
+      "production_year": "1950",
+      "convertible": false
+    },
+    {
+      "id": 2,
+      "brand": "Ferrari",
+      "model": "Red Extreme",
+      "production_year": "2020",
+      "convertible": false
+    },
+    {
+      "id": 3,
+      "brand": "Aston Martin",
+      "model": "Rapide",
+      "production_year": 2010,
+      "convertible": false
+    },
+    {
+      "id": 4,
+      "brand": "Maserati",
+      "model": "Mexico",
+      "production_year": 1970,
+      "convertible": false
+    },
+    {
+      "id": 5,
+      "brand": "Nissan",
+      "model": "Fairlady",
+      "production_year": 1974,
+      "convertible": false
+    },
+    {
+      "id": 6,
+      "brand": "Mercedes Benz",
+      "model": "300SL",
+      "production_year": 1957,
+      "convertible": true
+    },
+    {
+      "id": 7,
+      "brand": "Tesla",
+      "model": "900",
+      "production_year": 2020,
+      "convertible": false
+    },
+    {
+      "id": 8,
+      "brand": "Lamborghini",
+      "model": "Serano 90",
+      "production_year": "2020",
+      "convertible": true
+    }
+  ]
+}
